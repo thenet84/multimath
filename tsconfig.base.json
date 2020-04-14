@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "noUnusedLocals": true,
+        "sourceMap": true,
+        "strict": true,
+        "watch": true
+    },
+}
